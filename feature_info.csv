@@ -1,0 +1,13 @@
+feature_name,feature_type
+text_length,text_stat
+word_count,text_stat
+sentence_count,text_stat
+exclamation_count,text_stat
+question_count,text_stat
+uppercase_count,text_stat
+digit_count,text_stat
+has_fraction,math_feature
+has_decimal,math_feature
+has_percentage,math_feature
+math_operations,math_feature
+Category_encoded,categorical

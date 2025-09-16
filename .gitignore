@@ -3,8 +3,7 @@
 venv/
 env/
 
-# Large data files (you may want to use Git LFS for these)
-*.csv
+# Large model files (you may want to use Git LFS for these)
 *.joblib
 
 # Python cache
